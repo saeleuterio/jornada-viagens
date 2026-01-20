@@ -14,7 +14,7 @@
     --background-tertiary-color: #000000;
 
     --text-primary-color: #222222;
-    --text-secundary-color: #ffffff;
+    --text-secondary-color: #ffffff;
 
     --titles-weight: 700;
     --text-weight: 400;
@@ -36,4 +36,8 @@ button {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+
+body {
+    font-family: "Montserrat";
 }
