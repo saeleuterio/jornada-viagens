@@ -1,11 +1,3 @@
-.categories {
-  margin-bottom: 80px;
-}
-
-.categories .section-title {
-  width: 312px;
-  margin: 0 auto;
-}
 .categories-cards {
   display: flex;
   flex-direction: column;
@@ -25,10 +17,7 @@
   text-decoration: none;
   color: var(--text-primary-color);
 }
-.categories-cards .card h3 {
-  font-size: 28px;
-  font-weight: var(--title-weight);
-}
+
 .categories-cards .card.single-line {
   padding-top: 50px;
 }
